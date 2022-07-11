@@ -1,0 +1,19 @@
+h1,h2,hr,head,header,hgroup,h3,h4,h5,h6{
+font-family: 'Playfair Display', serif;
+}
+
+.navbar-brand{
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 36px;
+}
+
+.jumbotron{
+  background-color: #C7C8D1;
+}
+
+footer{
+  background: #C7C8D1;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
